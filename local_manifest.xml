@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+
+        <remote name="exynos7870shrp"
+        fetch="https://github.com/exynos7870shrp" />
+
+        <!-- Sync trees -->
+        <project path="device/samsung/j7velte" name="android_device_samsung_j7velte" remote="exynos7870shrp" revision="crdroid" />
+        <project path="device/samsung/universal7870-common" name="android_device_samsung_universal7870-common" remote="exynos7870shrp" revision="crdroid" />
+        <project path="vendor/samsung/j7velte" name="android_vendor_samsung_j7velte" remote="exynos7870shrp" revision="common" />
+        <project path="vendor/samsung/universal7870-common" name="android_vendor_samsung_universal7870-common" remote="exynos7870shrp" revision="common" />
+        <project path="kernel/samsung/exynos7870" name="android_kernel_samsung_exynos7870" remote="exynos7870shrp" revision="simple_q_permissive" />
+
+        <!-- HALs -->
+        <project name="android_hardware_samsung" path="hardware/samsung" remote="exynos7870shrp" revision="lineage-17.1" />
+
+</manifest>
