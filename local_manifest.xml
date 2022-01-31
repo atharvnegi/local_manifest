@@ -5,6 +5,7 @@
     <project path="device/xiaomi/selene" name="AtarvNegi2951/android_device_xiaomi_selene" remote="github" revision="lineage-19.0" />
     <project path="vendor/xiaomi/selene" name="AtarvNegi2951/android_vendor_xiaomi_selene" remote="github" revision="twelve" />
     <project path="vendor/mediatek-ims" name="AtarvNegi2951/vendor_mediatek_ims" remote="github" revision="twelve" />
+    <project path="vendor/xiaomi/mt6768-ims" name="Redmi-MT6768/android_vendor_xiaomi_mt6768-ims" remote="github" revision="twelve" />
     
     <!-- Kernel -->
     <project path="kernel/xiaomi/selene" name="selene-dev/android_kernel_xiaomi_selene" remote="github" revision="11" />
