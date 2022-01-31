@@ -10,7 +10,5 @@
     <project path="kernel/xiaomi/selene" name="selene-dev/android_kernel_xiaomi_selene" remote="github" revision="11" />
         
      <!-- hals -->
-     <project path="device/mediatek/sepolicy_vndr" name="AtarvNegi2951/device_mediatek_sepolicy_vndr" remote="github" revision="twelve" />
-     <project path="packages/apps/GCam" name="AtarvNegi2951/android_packages_apps_GCamPrebuilt" remote="github" revision="twelve" />
-    
+     <project path="device/mediatek/sepolicy_vndr" name="AtarvNegi2951/device_mediatek_sepolicy_vndr" remote="github" revision="twelve" />    
 </manifest>
