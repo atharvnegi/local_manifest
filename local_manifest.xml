@@ -7,8 +7,8 @@
     <project path="vendor/xiaomi/mt6768-ims" name="Redmi-MT6768/android_vendor_xiaomi_mt6768-ims" remote="github" revision="twelve" />
     
     <!-- Kernel -->
-    <project path="kernel/xiaomi/selene" name="selene-dev/android_kernel_xiaomi_selene" remote="github" revision="11" />
+    <project path="kernel/xiaomi/selene" name="Yukina-Supremacy/android_kernel_xiaomi_selene" remote="github" revision="twelve" />
         
      <!-- hals -->
-     <project path="device/mediatek/sepolicy_vndr" name="AtarvNegi2951/device_mediatek_sepolicy_vndr" remote="github" revision="twelve" />    
+     <project path="device/mediatek/sepolicy_vndr" name="PixelExperience/device_mediatek_sepolicy_vndr" remote="github" revision="twelve" />    
 </manifest>
