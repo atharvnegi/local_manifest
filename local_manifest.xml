@@ -2,8 +2,8 @@
 <manifest>
 
     <!-- trees -->
-    <project path="device/xiaomi/selene" name="AtarvNegi2951/android_device_xiaomi_selene" remote="github" revision="lineage-19.0" />
-    <project path="vendor/xiaomi/selene" name="AtarvNegi2951/android_vendor_xiaomi_selene" remote="github" revision="twelve" />
+    <project path="device/xiaomi/selene" name="atharvnegi/android_device_xiaomi_selene" remote="github" revision="lineage-19.0" />
+    <project path="vendor/xiaomi/selene" name="atharvnegi/android_vendor_xiaomi_selene" remote="github" revision="twelve" />
     <project path="vendor/xiaomi/mt6768-ims" name="Redmi-MT6768/android_vendor_xiaomi_mt6768-ims" remote="github" revision="twelve" />
     
     <!-- Kernel -->
